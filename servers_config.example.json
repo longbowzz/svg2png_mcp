@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "svg2png": {
+            "command": "/absolute/path/to/venv/bin/python",
+            "args": [
+                "/absolute/path/to/svg2png_mcp/src/server.py"
+            ]
+        }
+    }
+} 
