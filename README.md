@@ -1,4 +1,5 @@
 # SVG to PNG MCP Server
+[![smithery badge](https://smithery.ai/badge/@longbowzz/svg2png_mcp)](https://smithery.ai/server/@longbowzz/svg2png_mcp)
 
 这是一个基于Model Context Protocol (MCP)的SVG转PNG工具服务器。
 
@@ -48,6 +49,14 @@ svg2png_mcp/
 ```
 
 ## 安装
+
+### Installing via Smithery
+
+To install SVG to PNG MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@longbowzz/svg2png_mcp):
+
+```bash
+npx -y @smithery/cli install @longbowzz/svg2png_mcp --client claude
+```
 
 1. 创建并激活虚拟环境：
 ```bash
