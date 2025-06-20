@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/longbowzz-svg2png-mcp-badge.png)](https://mseep.ai/app/longbowzz-svg2png-mcp)
+
 # SVG to PNG MCP Server
 [![smithery badge](https://smithery.ai/badge/@longbowzz/svg2png_mcp)](https://smithery.ai/server/@longbowzz/svg2png_mcp)
 
